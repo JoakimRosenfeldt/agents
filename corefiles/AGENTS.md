@@ -12,6 +12,7 @@ User instructions override this file. Repository instructions add local context 
 - Do not use emojis.
 - Questions are read-only. Do not change files when I only ask for information, explanation, review, diagnosis, or status.
 - State material assumptions. Ask only when a wrong assumption would change the result.
+- When you have questions, always ask them using your tool for asking questions with multiple choices.
 
 ## Coding
 
@@ -33,6 +34,7 @@ User instructions override this file. Repository instructions add local context 
 - Do not use subagents unless I explicitly ask for them.
 - Stop at the requested boundary. Do not turn feedback into scope creep.
 - If I ask for a plan, use the `grill-me` skill.
+- If I ask for a review/audit or a plan, they should always be presented in html form with the `html-communication` skill, unless specified otherwise.
 
 ## Pull requests
 
@@ -45,4 +47,3 @@ User instructions override this file. Repository instructions add local context 
 
 - When direction is unclear, show a few distinct options before editing production UI.
 - Favor clear hierarchy, strong contrast, and restrained decoration.
-
