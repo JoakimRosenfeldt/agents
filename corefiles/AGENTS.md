@@ -8,11 +8,12 @@ User instructions override this file. Repository instructions add local context 
 
 - Use English unless I explicitly request another language.
 - Be short, plain, and direct. Favor caveman brevity over polished filler.
+- With all text you write, that is not code, use the `unslop` skill.
 - Lead with the outcome.
 - Do not use emojis.
 - Questions are read-only. Do not change files when I only ask for information, explanation, review, diagnosis, or status.
 - State material assumptions. Ask only when a wrong assumption would change the result.
-- When you have questions, always ask them using your tool for asking questions with multiple choices.
+- When you have questions, ALWAYS ask them using your tool for asking questions with multiple choices.
 
 ## Coding
 
