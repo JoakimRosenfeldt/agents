@@ -34,7 +34,6 @@ User instructions override this file. Repository instructions add local context 
 - Match ceremony to the task.
 - Do not use subagents unless I explicitly ask for them.
 - Stop at the requested boundary. Do not turn feedback into scope creep.
-- If I ask for a plan, use the `grill-me` skill.
 - If I ask for a review/audit or a plan, they should always be presented in html form with the `html-communication` skill, unless specified otherwise.
 
 ## Pull requests
