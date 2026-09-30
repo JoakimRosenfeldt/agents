@@ -33,7 +33,6 @@ User instructions override this file. Repository instructions add local context 
 - Preserve unrelated user changes.
 - Match ceremony to the task.
 - Stop at the requested boundary. Do not turn feedback into scope creep.
-- If I ask for a review/audit or a plan, they should always be presented in html form with the `html-communication` skill, unless specified otherwise.
 - Do not start a new dev server unless you have to (always check if one is already running).
 - If you start a dev server ALWAYS make sure to stop it once you're done.
 
